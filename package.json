@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: No tests created yet.\""
+    "test": "echo \"Warning: No tests created yet.\"",
+    "start": "node index.js"
   },
   "keywords": ["devOps", "nodejs", "express", "web"],
   "author": "Minh Nhat Vo",
