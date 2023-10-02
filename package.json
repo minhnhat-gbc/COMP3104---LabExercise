@@ -1,0 +1,12 @@
+{
+  "name": "comp3104---labexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "keywords": ["devOps", "nodejs", "express", "web"],
+  "author": "Minh Nhat Vo",
+  "license": "ISC"
+}
